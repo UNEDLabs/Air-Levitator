@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## The air levitator system
 
-You can use the [editor on GitHub](https://github.com/UNEDLabs/Air-Levitator/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The air levitator allows to perform a variety of control engineering experiences with a fast dynamics system. The whole setup consists basically on a fan, a tube, a light ball, a servo that moves a flap, and the required sensors to measure the position of the levitating ball and the air speed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Video demonstration
 
-### Markdown
+[THIS IS A PLACEHOLDER](https://www.youtube.com/watch?v=lDuLP_CrGec)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Real lab computer application
 
-```markdown
-Syntax highlighted code block
+You can get the most recent version of the air levitator real lab computer application to experiment with the system from [Air-Levitator](https://github.com/UNEDLabs/Air-Levitator/).
 
-# Header 1
-## Header 2
-### Header 3
+### Virtual lab computer application
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UNEDLabs/Air-Levitator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can also get the most recent version of the air levitator virtual lab computer application from [Air-Levitator](https://github.com/UNEDLabs/Air-Levitator/).
