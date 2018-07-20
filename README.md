@@ -6,7 +6,9 @@ The air levitator system can be used as a hands-on traditional laboratory or as 
 
 ### Video demonstration
 
-[Click for the video](https://youtu.be/74lKE0QAqpg)
+![Video screenshot](Screenshot.png)
+
+[Click here for the video](https://youtu.be/74lKE0QAqpg)
 
 ### Real lab computer application
 
