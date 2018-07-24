@@ -6,9 +6,7 @@ The air levitator system can be used as a hands-on traditional laboratory or as 
 
 ### Video demonstration
 
-![Video screenshot](Screenshot.png)
-
-[Click here for the video](https://youtu.be/74lKE0QAqpg)
+<iframe width="854" height="480" src="https://www.youtube.com/embed/74lKE0QAqpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Real lab computer application
 
@@ -16,5 +14,5 @@ You can get the most recent version of the air levitator real lab computer appli
 
 ### Virtual lab computer application
 
-![Virtual lab screenshot](VirtualLab.png)
+<img src="https://github.com/UNEDLabs/Air-Levitator/blob/master/VirtualLab.png" alt="Air Levitator Lab" width="100%">
 You can also get the most recent version of the air levitator virtual lab computer application from [Air-Levitator](https://github.com/UNEDLabs/Air-Levitator/).
