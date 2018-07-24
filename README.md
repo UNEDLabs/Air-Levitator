@@ -14,5 +14,6 @@ You can get the most recent version of the air levitator real lab computer appli
 
 ### Virtual lab computer application
 
-<img src="https://github.com/UNEDLabs/Air-Levitator/blob/master/VirtualLab.png" alt="Air Levitator Lab" width="100%">
+![Virtual lab screenshot](VirtualLab.png)
+
 You can also get the most recent version of the air levitator virtual lab computer application from [Air-Levitator](https://github.com/UNEDLabs/Air-Levitator/).
